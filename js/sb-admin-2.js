@@ -53,4 +53,10 @@
     e.preventDefault();
   });
 
+  $(document).ready(function(){
+    $('#accordionSidebar').load('sidebar.html');
+    $('#nav').load('top-nav.html');
+    $('#footer').load('footer.html');
+  });
+
 })(jQuery); // End of use strict
