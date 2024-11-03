@@ -1,5 +1,5 @@
 # waffle-admin
-WAFFLE admin dashboard
+WAFFLE low-fidelity workable prototype
 
-# Demo
+# Pages
 https://dvbondoy.github.io/waffle-admin/index.html
